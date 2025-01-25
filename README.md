@@ -17,9 +17,10 @@
  # Project Conclusion:
 
      The Dynamic Calculator project demonstrates a user-friendly and interactive calculator application built using Python.
-     With its flexible and customizable interface, the calculator performs various mathematical operations, from basic arithmetic to advanced calculations. 
-     This project showcases the capabilities of Python programming language in building dynamic and interactive applications, 
-      providing a valuable tool for users to performed mathematical calculations efficiently.
+     With its flexible and customizable interface, the calculator performs various mathematical 
+      operations, from basic arithmetic to advanced calculations. This project showcases the capabilities of Python programming language 
+      in building dynamic and interactive applications, providing a valuable tool for 
+      users to performed mathematical calculations efficiently.
 
 
  # Created By:
